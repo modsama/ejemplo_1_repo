@@ -3,8 +3,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
-    color: #333333;
+    background: url(img/imgfondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
 }
 
 header {
@@ -14,14 +16,14 @@ header {
 /* Título del Encabezado */
 h1 {
     
-    color: #005ba3;
+    color: #b91a1a;
 }
 
 /* Subtítulo del Encabezado */
 h2 {
     font-size: 1.5em;
     font-weight: normal;
-    color: #009688;
+    color: #10cebb;
 }
 
 /* Párrafo */
@@ -32,7 +34,7 @@ p {
 
 /* Pie de página */
 footer {
-    background-color: #333333;
+    background-color: #5a4cad;
     color: #ffffff;
     padding: 5px 0;
     text-align: center;
