@@ -15,21 +15,23 @@ header {
 
 /* Título del Encabezado */
 h1 {
-    
+    font-size: 5.5em;
     color: #b91a1a;
 }
 
 /* Subtítulo del Encabezado */
 h2 {
-    font-size: 1.5em;
+    font-size: 4.0em;
     font-weight: normal;
     color: #10cebb;
 }
 
 /* Párrafo */
 p {
+    font-size: 2.0em;
     line-height: 1.6;
     margin-bottom: 10px;
+    color: blue;
 }
 
 /* Pie de página */
